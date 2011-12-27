@@ -1,6 +1,6 @@
 <?php
 /*
- * This file is part of the CLIFramework package.
+ * This file is part of the ConsoleLogger package.
  *
  * (c) Yo-An Lin <cornelius.howl@gmail.com>
  *
@@ -55,7 +55,7 @@ class Logger
     /**
      * foramtter class 
      *
-     * @var CLIFramework\Formatter
+     * @var ConsoleLogger\Formatter
      */
 	public $formatter;
 
